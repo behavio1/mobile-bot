@@ -1,0 +1,14 @@
+{
+  "name": "@behavio/mobile-bot-host",
+  "version": "0.5.45",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/embed-predefined-skills.mjs && tsc -p tsconfig.json && node scripts/sync-host-asset.mjs",
+    "test": "npm run build && node --test test/*.test.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "26.4.1",
+    "typescript": "7.0.2"
+  }
+}

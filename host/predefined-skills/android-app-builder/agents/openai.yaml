@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tworzenie aplikacji Android"
+  short_description: "Buduje i weryfikuje proste natywne aplikacje Android."
+  default_prompt: "Utwórz prostą natywną aplikację Android zgodną z opisem i przygotuj ją do uruchomienia na emulatorze API 36."

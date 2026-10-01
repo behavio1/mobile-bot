@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odpowiedzi e-mail"
+  short_description: "Przygotowuje odpowiedzi w kontekście wątku."
+  default_prompt: "Przeanalizuj wiadomość e-mail i przygotuj konkretną odpowiedź zgodną z intencją właściciela."

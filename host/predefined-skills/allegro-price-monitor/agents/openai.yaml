@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monitoring cen Allegro"
+  short_description: "Wyszukuje ofertę i monitoruje najniższą cenę co 15 minut."
+  default_prompt: "Znajdź na Allegro najtańszą równoważną ofertę wskazanego produktu i sprawdzaj ją co 15 minut."
