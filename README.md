@@ -4,6 +4,8 @@ Mobile Bot runs a team of AI agents on your Android phone. You give each agent a
 
 The agents run on [Codex CLI](https://github.com/openai/codex) inside [Termux](https://termux.dev), signed in with your own ChatGPT account. The app talks to them through a small local host that only listens on the phone itself. An experimental on-phone model (Qwen3.5 0.8B) can replace Codex for private, offline conversations.
 
+**Watch the 3-minute tutorial:** [Mobile Bot on YouTube](https://www.youtube.com/watch?v=2nupIyCnAdk)
+
 <p align="center">
   <img src="docs/images/home.png" alt="Home screen with four agent cards" width="240">
   <img src="docs/images/chat.png" alt="Nova answering a planning request" width="240">

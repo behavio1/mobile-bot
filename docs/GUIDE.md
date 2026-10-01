@@ -1,6 +1,6 @@
 # Mobile Bot user guide
 
-This guide follows the video tutorial: setup, your first conversation, phone control, automations, powers, custom agents and themes. Screens are from Mobile Bot 0.1 on Android 15 and 16.
+This guide follows the [video tutorial](https://www.youtube.com/watch?v=2nupIyCnAdk): setup, your first conversation, phone control, automations, powers, custom agents and themes. Screens are from Mobile Bot 0.1 on Android 15 and 16.
 
 - [1. Before you start](#1-before-you-start)
 - [2. Set up the app](#2-set-up-the-app)
